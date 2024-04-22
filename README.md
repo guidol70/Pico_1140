@@ -1,6 +1,10 @@
 # Pico_1140
 A PDP11/40 emulator that will run Unix v5/v6 and a number of DEC operating systems.
 
+![Pico_1140_BootUpScreen](https://github.com/guidol70/Pico_1140/blob/main/Binary/Pico_1140_Boot.jpg?raw=true?raw=true)
+
+![Pico_1140_SPI_Pinouts](https://github.com/guidol70/Pico_1140/blob/main/Binary/Pico_1140_SPI_Pinouts.jpg?raw=true?raw=true)
+
 Introduction and acknowledgements:
 
 This is an updated version of Dave Cheney's CPP11 https://github.com/davecheney/cpp11 which will run on a Pi Pico.
